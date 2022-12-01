@@ -13,8 +13,8 @@ public class Libro {
     }
 
     public void addTexto(Texto texto) {
-           this.textoList[ultimoId] = texto;
-           ultimoId++;
+        this.textoList[ultimoId] = texto;
+        ultimoId++;
 
     }
 
